@@ -1,0 +1,11 @@
+{
+    "guests": [{
+        "name": "Name",
+        "isSingleBed": false,
+        "bill": 500,
+        "miniBarItems": [],
+        "dayStaying": 2
+    }],
+    "currentRevenue": 7800,
+    "checkOutRevenue": 7300
+}

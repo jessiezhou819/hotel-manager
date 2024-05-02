@@ -1,0 +1,23 @@
+{
+    "guests": [
+        {
+            "name": "Jessie",
+            "isSingleBed": true,
+            "bill": 402.5,
+            "miniBarItems": ["soda"],
+            "dayStaying": 2
+        },
+        {
+            "name": "Joe",
+            "isSingleBed": false,
+            "bill": 756.5,
+            "miniBarItems": [
+                "soda",
+                "snack"
+            ],
+            "dayStaying": 3
+        }
+    ],
+    "currentRevenue": 1159,
+    "checkOutRevenue": 0
+}
