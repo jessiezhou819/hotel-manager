@@ -1,5 +1,6 @@
 # Hotel Management System
 
+![](https://github.com/jessiezhou819/hotel-manager/blob/main/hotelManagerDemo.gif)
 
 The application serves as a *hotel management system* that provides a 
 simple yet efficient user interface for users to keep track of guest 
